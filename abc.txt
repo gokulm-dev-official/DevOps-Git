@@ -1,2 +1,3 @@
 some lines are added
-this file is modified
+one line deleted 
+one line added... 
